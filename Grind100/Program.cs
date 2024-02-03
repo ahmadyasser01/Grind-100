@@ -16,7 +16,9 @@
             var list2 = new ListNode(1, list2_2);
 
 
-            MergeTwoLists(null,new ListNode(0,null));
+            //MergeTwoLists(null,new ListNode(0,null));
+
+            IsPalindrome("A man, a plan, a canal: Panama");
 
         }
        
