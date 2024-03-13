@@ -19,12 +19,13 @@
             //MergeTwoLists(null,new ListNode(0,null));
 
             //IsPalindrome("A man, a plan, a canal: Panama");
-            int[][] input = new int[3][] { 
-            new int[]{1,1,1},
-            new int[]{1,1,0},
-            new int[]{1,0,1},
-            };
-            var result = FloodFill(input,1,1,2);
+            //int[][] input = new int[3][] { 
+            //new int[]{1,1,1},
+            //new int[]{1,1,0},
+            //new int[]{1,0,1},
+            //};
+            //var result = FloodFill(input,1,1,2);
+            var result = LongestPalindrome("civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth");
 
         }
        
